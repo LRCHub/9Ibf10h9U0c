@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Traffic light (신호등)",
+  "base_artist": "Lee Mujin",
+  "createdAt": "2026-02-24T04:16:58.329388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Traffic Light Rock",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/01_Traffic_Light_Rock_XTC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Traffic Light Rock (live)",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/02_Traffic_Light_Rock_(live)_XTC.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Traffic Light",
+      "artist": "The Ting Tings",
+      "has_synced": false,
+      "path": "select/03_Traffic_Light_The_Ting_Tings.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slave to the Traffic Light",
+      "artist": "Phish",
+      "has_synced": false,
+      "path": "select/04_Slave_to_the_Traffic_Light_Phish.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Traffic Light - Live",
+      "artist": "The Ting Tings",
+      "has_synced": true,
+      "path": "select/05_Traffic_Light_-_Live_The_Ting_Tings.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Traffic Light (Live)",
+      "artist": "The Ting Tings",
+      "has_synced": true,
+      "path": "select/06_Traffic_Light_(Live)_The_Ting_Tings.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Traffic Light",
+      "artist": "Daughtry",
+      "has_synced": true,
+      "path": "select/07_Traffic_Light_Daughtry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Traffic light",
+      "artist": "Lee Mujin",
+      "has_synced": true,
+      "path": "select/08_Traffic_light_Lee_Mujin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Traffic Light",
+      "artist": "Rival feat. ORKID",
+      "has_synced": true,
+      "path": "select/09_Traffic_Light_Rival_feat._ORKID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Traffic Light (feat. ORKID)",
+      "artist": "Rival",
+      "has_synced": true,
+      "path": "select/10_Traffic_Light_(feat._ORKID)_Rival.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Traffic Light",
+      "artist": "a crowd of rebellion",
+      "has_synced": false,
+      "path": "select/11_Traffic_Light_a_crowd_of_rebellion.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Traffic Light Rock (Bonus Track)",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/12_Traffic_Light_Rock_(Bonus_Track)_XTC.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Traffic Light Rock (Live at Eric's Club)",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/13_Traffic_Light_Rock_(Live_at_Eric's_Club)_XTC.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Traffic Light Rock (live at Eric's in Liverpool)",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/14_Traffic_Light_Rock_(live_at_Eric's_in_Liverpool)_XTC.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Traffic Light Rock - 2001 Remaster",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/15_Traffic_Light_Rock_-_2001_Remaster_XTC.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Traffic Light",
+      "artist": "Daughtry",
+      "has_synced": true,
+      "path": "select/16_Traffic_Light_Daughtry.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Traffic light",
+      "artist": "Lee Mujin",
+      "has_synced": true,
+      "path": "select/17_Traffic_light_Lee_Mujin.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Traffic-Light Lady",
+      "artist": "John & Beverley Martyn",
+      "has_synced": false,
+      "path": "select/18_Traffic-Light_Lady_John_&_Beverley_Martyn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Traffic light",
+      "artist": "Lee Mujin",
+      "has_synced": false,
+      "path": "select/pl_01_Traffic_light_Lee_Mujin.txt"
+    }
+  ]
+}
